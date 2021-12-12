@@ -6,31 +6,35 @@
 </description>
     <link>https://annax.github.io</link>
     <atom:link href="https://annax.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Apr 2021 13:49:40 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Apr 2021 13:49:40 +0800</lastBuildDate>
+    <pubDate>Sun, 12 Dec 2021 01:43:09 -0800</pubDate>
+    <lastBuildDate>Sun, 12 Dec 2021 01:43:09 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>更新公告</title>
-        <description>&lt;div style=&quot;text-indent: 12em&quot;&gt;
+        <title>更新记录</title>
+        <description>&lt;div style=&quot;text-indent: 5em&quot;&gt;
+2021-12-11
+&lt;li&gt;支持插入音乐&lt;/li&gt;
+&lt;li&gt;明暗风格统一，更好的深色模式体验&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-indent: 5em&quot;&gt;
 2021-04-29
-&lt;li&gt;现在可以在文章首图的左下角看到字数&lt;/li&gt;
+&lt;li&gt;可以在文章首图左下角看到字数&lt;/li&gt;
 &lt;li&gt;中英文字体统一&lt;/li&gt;
-&lt;li&gt;许多的排版设计微调&lt;/li&gt;
-&lt;li&gt;现在可以发布无图公告（这一条）&lt;/li&gt;
-&lt;li&gt;将主体部分背景色调暗了一点&lt;/li&gt;
+&lt;li&gt;可以发布无图文章&lt;/li&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 29 Apr 2021 00:00:00 +0800</pubDate>
-        <link>https://annax.github.io/2021/04/29/update/</link>
-        <guid isPermaLink="true">https://annax.github.io/2021/04/29/update/</guid>
+        <pubDate>Sat, 11 Dec 2021 00:00:00 -0800</pubDate>
+        <link>https://annax.github.io/2021/12/11/update/</link>
+        <guid isPermaLink="true">https://annax.github.io/2021/12/11/update/</guid>
         
         
       </item>
     
       <item>
         <title>K效应（上）</title>
-        <description>&lt;center&gt;&lt;h5&gt;前 排 提 醒&lt;/h5&gt;&lt;/center&gt;
+        <description>&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h5&gt;前 排 提 醒&lt;/h5&gt;&lt;/div&gt;
 
 &lt;div class=&quot;warning&quot;&gt;
 &lt;p&gt;[ 此篇使用了不同字体，建议在PC端浏览器上阅读 ]&lt;/p&gt;
@@ -38,7 +42,7 @@
 &lt;p&gt;[ 如在阅读过程中感到任何不适，请立即停止阅读 ]&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;center&gt;&lt;h2&gt;1.红心三&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;1.红心三&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;我正式认识K是在一个秋天的傍晚，校园巴士的站台上。他穿着一件灰色的卫衣，背着一个双肩包，踏着人行道上的落叶走来，看见我后打了声招呼。在他身后，西边的天空是一种油画般的沉积色，从上往下，由深蓝渐渐过渡到橙。&lt;/p&gt;
 
@@ -92,7 +96,7 @@
 
 &lt;p&gt;就这样，我“正式”认识了K，魔术表演者之间的那种认识。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;2.黑桃九&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;2.黑桃九&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;A.C.A.A.N.，翻译过来就是“任意牌出现在任意位置”，是一个概念极其简单的魔术：观众指定一张牌和一个一到五十二的数字，一副扑克牌数到那个数字便是那张牌。除此之外，魔术对具体实现流程没有任何限制，从而给予了魔术师们极高的自由度，衍生出一系列可以被称作A.C.A.A.N.的魔术系统。&lt;/p&gt;
 
@@ -112,7 +116,7 @@
 
 &lt;p&gt;但有一点是肯定的，那就是真正的巴格拉斯效应，这个半个多世纪无人能解的谜题，成为了魔术界一个最大的秘密，每一个魔术师的梦想，乃至传奇的“圣杯”。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;3.红心八&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;3.红心八&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;虽然在外人眼中魔术社自带一层神秘的滤镜，但实际上，魔术社一直是个在校园里比较边缘的小众社团。每年招新的时候，可能是社团活动室里人最多的时候，之后这样的热度便很快衰竭下来。往往那些开始时最积极的大一生，参加一次或两次活动后，热情消退得也最快，到最后便以学业繁忙或其它理由蒸发了，连让人记得住的名字也留不下一个。更何况每年还有因毕业而退出的社团老人，让魔术社就像一辆公交车，不断有人上车和下车，留下来的，也只有为数不多的魔术爱好者们，一个由来自不同院系的人所组成的松散集体。&lt;/p&gt;
 
@@ -136,13 +140,13 @@
 
 &lt;p&gt;商学院牌局一局的筹码从几十到几百元不等，没有人准确地知道从K开始加入后的那些周末内，他一共赢走了多少钱。但无可否认的一点是，K在使用其中的一部分精进自己的牌艺——不断将练习损坏的废牌扔掉，并买入更贵手感也更好的扑克牌。&lt;/p&gt;
 
-&lt;p&gt;除了这一项不太光彩的活动，K其实一直是社团里其它重要活动的积极参与者，譬如在每年的社团招新摊位上表演魔术吸引新生，或者去留守儿童的社区进行公益演出和魔术教学。逐渐地，K成为了魔术社不可或缺的核心人物。&lt;/p&gt;
+&lt;p&gt;除了这一项不太光彩的活动，K其实一直是社团里其它重要活动的积极参与者，譬如在每年的社团招新摊位上表演魔术吸引新生，或者去流动儿童的社区进行公益演出和魔术教学。逐渐地，K成为了魔术社不可或缺的核心人物。&lt;/p&gt;
 
 &lt;p&gt;而我也越来越觉得，与我们这些业余的魔术爱好者不同，K是一个有可能成为真正的职业魔术师的人。&lt;/p&gt;
 
 &lt;p&gt;只是，这一天比我们预想的来得快得多。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;4.方块Q&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;4.方块Q&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;细心的思考者可能会在原始巴格拉斯效应的第四条原则上发现一些不寻常的端倪。毕竟相比于前两条原则的禁止串通规定，第四条原则并没有要求观众与魔术师不能提前串通。想象一个这样的流程：第一名观众报出一张牌，第二名观众报出一个数字，第三名观众被邀请进行数牌。那么，此时一个合理的怀疑是，第三名观众是一位熟练掌握扑克牌手法的“托”，并且能够在众目睽睽之下将牌控制在想要的位置。&lt;/p&gt;
 
@@ -162,7 +166,7 @@
 
 &lt;p&gt;从此格斯再没有诋毁过大卫。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;5.黑桃八&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;5.黑桃八&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;学校对于淡化社团活动在学生生活中的地位一直都有所打算，所以当新政策正式出来时，我们没有很意外，但仍相当失望。&lt;/p&gt;
 
@@ -236,7 +240,7 @@
 
 &lt;p&gt;期末来临，社团活动全面暂停。寒假开始的时候，我们才得知：K退学了。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;6.红心九&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;6.红心九&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;概率。&lt;/p&gt;
 
@@ -278,7 +282,7 @@
 
 &lt;p&gt;如果魔术师预告将表演巴格拉斯效应，扑克牌在表演前便展示在观众面前，魔术师表演全程都不碰触牌，且所有观众都不是托，那么表演的成功率不可能是百分之一百。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;7.梅花七&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;7.梅花七&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;只有在K突然消失之后，我们才意识到对他知之甚少。&lt;/p&gt;
 
@@ -618,7 +622,7 @@
 
 &lt;p&gt;那天，我们喝了不知多少的酒。那也是我和K——在我们缥缈的“学生时代”——最后的一次见面。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;8.红心二&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;8.红心二&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;除开一系列繁杂的手续，毕业的过程出乎意料地简短，简短到日后回忆起来，竟找不到什么印象深刻的场景。一张张仪式性的毕业照中，我没有遇到那想象中的留恋与伤感。仿佛快门按下的一瞬间，仅宣告了一个虚无目标的终结与下一个目标的启动，宣告了我不再属于某一群人，而成为了另一群人。&lt;/p&gt;
 
@@ -652,7 +656,7 @@
 
 &lt;p&gt;可惜，没有如果。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;9.红心Q&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;9.红心Q&lt;/h2&gt;&lt;/div&gt;
 
 &lt;p&gt;拉斯维加斯。夜。&lt;/p&gt;
 
@@ -680,13 +684,13 @@
 
 &lt;p&gt;卢克索酒店的客房被一层层建造在金字塔的内壁中，站在金字塔内从下往上望去，环绕客房的走廊宛如一级级倒悬的阶梯，以近四十度的倾角四面向上收拢成一个高高的穹顶，笼罩着下方灯火通明的硕大空间——人来人往的赌场四周，点缀着古埃及风格的巨型人身石像、高大的棕树、刻满浮雕和象形文字的神庙与门楼。古代与现代交融在这超现实的场景中，产生出一种奇妙的映照：四千年前，古埃及人在尼罗河畔祭祀他们的太阳神阿蒙；四千年后，地球另一端的沙漠里，人们仍从事着同样的活动，只不过这次，他们的寄托对象变成了一台台闪烁的老虎机、不停旋转的轮盘和变幻的扑克。&lt;/p&gt;
 
-&lt;p&gt;在一瞬间，我突然理解了那些坐在赌场里挥金如土的赌徒们。赌场，其实兜售着一种昂贵而珍惜的商品——一个美好的、一夜暴富、花天酒地的梦。人类一直是渴求梦的生物，从古至今，这个星球上一切卓越的文学、绘画、音乐、戏剧、雕塑，电影乃至游戏，都是为梦而生，为了建构那最迷人、最让人沉浸的虚拟世界。这样的梦，要用价格公道的客房与自助餐来维护与挽留，要用蓝天白云的墙纸贴在天花板上，让幻想的太阳永驻空中。&lt;/p&gt;
+&lt;p&gt;在一瞬间，我理解了那些坐在赌场里挥金如土的赌徒们。赌场，其实兜售着一种昂贵而珍惜的商品——一个美好的、一夜暴富、花天酒地的梦。人类一直是渴求梦的生物，从古至今，这个星球上一切卓越的文学、绘画、音乐、戏剧、雕塑，电影乃至游戏，都是为梦而生，为了建构那最迷人、最让人沉浸的虚拟世界。这样的梦，要用价格公道的客房与自助餐来维护与挽留，要用蓝天白云的墙纸贴在天花板上，让幻想的太阳永驻空中。&lt;/p&gt;
 
 &lt;p&gt;一切伟大的艺术，皆是伟大的骗术。&lt;/p&gt;
 
 &lt;p&gt;所以，一切伟大的艺术，其本质上，都是魔术吗？&lt;/p&gt;
 
-&lt;p&gt;抬头望向赌场中心竖立的方尖碑，一股头重脚轻的眩晕感再度袭来。我稳了稳脚跟，重新确认平衡后，向着金字塔一角的剧场入口走去——距离与K约定的时刻还剩几分钟，照他的说法，他并不想用冗长的表演让我感到无聊，因此如果在约定的时刻进场，就能直接看到整场表演的最后一个段落，那也是他真正想要我看的重头戏。&lt;/p&gt;
+&lt;p&gt;抬头望向赌场中心高高竖立的方尖碑，一股头重脚轻的眩晕感再度袭来。我稳了稳脚跟，重新确认平衡后，向着金字塔一角的剧场入口走去——距离与K约定的时刻还剩几分钟，照他的说法，他并不想用冗长的表演让我感到无聊，因此如果在约定的时刻进场，就能直接看到整场表演的最后一个段落，那也是他真正想要我看的重头戏。&lt;/p&gt;
 
 &lt;p&gt;检票员显然已经知晓我的到来，报上名字后，她便领我进入了剧场，走向最后一排边上预留的一个座位——这也是K的安排，先前的联系中，他说最后一排将是欣赏演出的最佳位置。&lt;/p&gt;
 
@@ -694,9 +698,9 @@
 
 &lt;p&gt;她递给我几件物品：一红一黑两面三角形的小旗，一张书本大小的白纸卡，还有一支马克笔。&lt;/p&gt;
 
-&lt;center&gt;&lt;h2&gt;10.梅花九&lt;/h2&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h2&gt;10.梅花九&lt;/h2&gt;&lt;/div&gt;
 
-&lt;p&gt;这是一个中型大小的剧场，昏暗的光线下一眼望去，呈扇形排列的座位大概能容纳三四百人，此时大部分都坐满了。正前方，魔术师站在明亮的舞台中央，身着黑马甲、白衬衫和黑西裤——隔了近两年，再次见到K本人竟让我感到有些陌生。在他的周围，除了作为背景的灰色投影幕布外空无一物——没有椅子、桌子或其它常见的道具，可能已经被移下舞台。看来表演接近了尾声。&lt;/p&gt;
+&lt;p&gt;这是一个中型大小的剧场，昏暗的光线下一眼望去，呈扇形排列的座位大概能容纳三四百人，此时大部分都坐满了。正前方，魔术师站在明亮的舞台中央，身着黑马甲、白衬衫和黑西裤——隔了近两年，再次见到K本人让我感到有些陌生。在他的周围，除了作为背景的灰色投影幕布外空无一物——没有椅子、桌子或其它常见的道具，可能已经被移下舞台。看来表演接近了尾声。&lt;/p&gt;
 
 &lt;p&gt;“……在今晚剩下的时间里，我想先回顾一下自己这几年的经历。”K用沉稳而清晰的声音说道，“去年，当我第一次来到拉斯维加斯参加魔术大会时，虽然也有幸在一些小场合进行了表演，但我对自己的表演并不满意。一直以来，我都在寻找一种扑克魔术，它应该是最简洁，而又看上去最不可能完成的。今天在座的有不少魔术师同僚，想必都知道A.C.A.A.N.和巴格拉斯效应。这是一个概念非常简单的魔术，观众想一张牌和一个数字，一副牌数到那个数字就是那张牌。为了实现巴格拉斯效应，我花费大量的时间练习扑克手法，设计自己的表演流程，但到了后来，我才意识到，完美的巴格拉斯效应，其实并不必靠手法或者随机应变的流程。想通了这一点后，我突然领悟到，也许存在一种更加简洁的魔术。”他顿了顿。&lt;/p&gt;
 
@@ -964,7 +968,7 @@
 
 &lt;p&gt;“所以，数牌吧。”&lt;/p&gt;
 
-&lt;p&gt;我愣住了。虚空的意识中，出现了一副崭新的扑克牌，我伸出手去抓住了它，一张张把牌数下。先是第零张广告牌，然后是黑桃，第一到十三张，黑桃A到K……手指因为紧张颤抖着……从第二个花色开始，第十四张，红心A……十五，红心二……十六，红心三……十七，红心四……十八，五……十九，六……扑克牌一张张抖落，掉入意识的深渊……二十，七……二十一，八……二十二，九……二十三，十……第二十四张牌，第二十四张！是红心J，红心J！一阵强烈的眩晕袭来。这不可能！这怎么可能呢？！再数一遍，再数一遍呢？从第十四张红心A开始……十五，红心二……十六，红心三……大脑强迫症似的一遍遍执行着数牌的过程，宛如一个短路的死循环，但没有用，每一次执行的结果都一样——第二十四张，就是红心J。红心J，就是第二十四张。一个不可能的事实，一个逻辑正确的错误。&lt;/p&gt;
+&lt;p&gt;我愣住了。虚空的意识中，出现了一副崭新的扑克牌，我伸出手去抓住了它，一张张把牌数下。先是第零张广告牌，然后是黑桃，第一到十三张，黑桃A到K……手指因为紧张颤抖着……从第二个花色开始，第十四张，红心A……第十五张，红心二……十六，红心三……十七，红心四……十八，红心五……十九，红心六……扑克牌一张张抖落，掉入意识的深渊……二十，红心七……二十一，红心八……二十二，红心九……二十三，红心十……第二十四张牌，第二十四张！是红心J，红心J！一阵强烈的眩晕袭来。这不可能！这怎么可能呢？！再数一遍，再数一遍呢？从第十四张红心A开始……十五，红心二……十六，红心三……大脑强迫症似的一遍遍执行着数牌的过程，宛如一个短路的死循环，但没有用，每一次执行的结果都一样——第二十四张，就是红心J。红心J，就是第二十四张。一个不可能的事实，一个逻辑正确的错误。&lt;/p&gt;
 
 &lt;p&gt;温暖而明亮的鹅黄色光辉下，整个剧场死一般的寂静。&lt;/p&gt;
 
@@ -1010,9 +1014,9 @@
 
 &lt;p&gt;如一道强烈的闪电，在这个窄小的隔间里，我突然重新真切地体验到了——活着的感觉。&lt;/p&gt;
 
-&lt;center&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 26 Apr 2021 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 26 Apr 2021 00:00:00 -0700</pubDate>
         <link>https://annax.github.io/2021/04/26/thekeffect1/</link>
         <guid isPermaLink="true">https://annax.github.io/2021/04/26/thekeffect1/</guid>
         
@@ -1111,7 +1115,7 @@
 
 &lt;p&gt;让我们在奇点后相见。&lt;/p&gt;
 </description>
-        <pubDate>Wed, 18 Nov 2020 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
         <link>https://annax.github.io/2020/11/18/cyberpunkisdead/</link>
         <guid isPermaLink="true">https://annax.github.io/2020/11/18/cyberpunkisdead/</guid>
         
@@ -1122,16 +1126,15 @@
     
       <item>
         <title>新海 · 序章：冬猎（PART I）</title>
-        <description>&lt;center&gt;&lt;h5&gt;前 排 提 醒&lt;/h5&gt;&lt;/center&gt;
+        <description>&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h5&gt;前 排 提 醒&lt;/h5&gt;&lt;/div&gt;
 
 &lt;div class=&quot;warning&quot;&gt;
 &lt;p&gt;[ 此篇使用了不同字体，建议在PC端浏览器上阅读 ]&lt;/p&gt;
+&lt;p&gt;[ 此篇嵌入了音乐，手机可在横屏模式下显示播放器 ]&lt;/p&gt;
 &lt;p&gt;[ Chrome浏览器使用者，推荐使用&lt;a href=&quot;https://darkreader.org/&quot;&gt;Dark Reader&lt;/a&gt;插件，在全屏模式下阅读 ]&lt;/p&gt;
-&lt;p&gt;[ 某神秘歌单可能提升阅读体验 ]&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;center&gt;&lt;h1&gt;1&lt;/h1&gt;&lt;/center&gt;
-
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;1&lt;/h1&gt;&lt;/div&gt;
 &lt;p&gt;“啪嗒！”泛着黑光的战术靴粉碎了水坑里的霓虹招牌，那是一家地下软件作坊的名字。类似的招牌在视野过滤网外到处都是，然而这条街上此时空无一人——半小时之前，紧急疏散令已经让黑市商人们识相地卷铺盖走人了。&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 1.1em&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;em&gt;盔载显示系统：红色警告——噪音分贝越线！&lt;/em&gt;&lt;/p&gt;
@@ -1326,7 +1329,7 @@
 
 &lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 1.1em&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;em&gt;正在退出沉浸系统……已退出&lt;/em&gt;&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;2&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;2&lt;/h1&gt;&lt;/div&gt;
 
 &lt;h5&gt;腊月廿二 · 上午09时12分 —— 冬京 · 雀阁&lt;/h5&gt;
 
@@ -1414,7 +1417,7 @@
 
 &lt;p&gt;灰喜鹊与同伴们汇合了，它们找到了一个避雨的檐廊，在那居高临下地俯视着雀阁前清寂的广场。细雨无声地落在十九乘十九路灰白色方砖的格纹上。一柄黑伞被从左下角撑开。离开的客人要跨过整个广场，黑色的伞顶从小目移向星位。&lt;/p&gt;
 
-&lt;center&gt;&lt;h5&gt;***&lt;/h5&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h5&gt;***&lt;/h5&gt;&lt;/div&gt;
 
 &lt;p&gt;段一云轻轻推开病房的门，又轻轻将门关上。飘窗上的纱帘浮动着白光，坐在病床旁的女孩安静地注视着床上熟睡的老人，耳畔的红发隐约可见。&lt;/p&gt;
 
@@ -1546,7 +1549,7 @@
 
 &lt;p&gt;“鹏”式顶着倾泻的雨水缓缓抬起了双翼，离子引擎喷出的淡蓝色热流在尾部和翼下蒸发出一股咆哮的水汽。巨大的黑色蝠鲼稳健地升入雨的海洋之中，然后向南方游去。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;3&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;3&lt;/h1&gt;&lt;/div&gt;
 
 &lt;h5&gt;腊月廿二 · 晚17时23分 —— 热港 · 庙街&lt;/h5&gt;
 
@@ -1698,7 +1701,7 @@
 
 &lt;p&gt;“预计旅程时间：三小时四十七分。”轻微的提示音湮没在热港的夜里。泛着黑红色光泽的扁平车身仿佛一只巨型金属蛞蝓，无声地滑入了庞杂黑暗的街道中。一会儿，它便会离开热港枢纽，汇入地下高速交通网络，然后一路向北，向目的地疾驰而去。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;4&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;4&lt;/h1&gt;&lt;/div&gt;
 
 &lt;h5&gt;腊月廿二 · 晚18时25分 —— 新海上空&lt;/h5&gt;
 
@@ -2024,9 +2027,9 @@
 
 &lt;p&gt;一夜无梦。&lt;/p&gt;
 
-&lt;center&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 28 Sep 2020 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
         <link>https://annax.github.io/2020/09/28/winterhunt1/</link>
         <guid isPermaLink="true">https://annax.github.io/2020/09/28/winterhunt1/</guid>
         
@@ -2042,7 +2045,7 @@
   &lt;cite&gt;《子华子 · 大道》&lt;/cite&gt;
 &lt;/blockquote&gt;
 
-&lt;center&gt;&lt;h1&gt;1&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;1&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;6：00的银色列车准时滑入了13号停靠台。&lt;/p&gt;
 
@@ -2060,11 +2063,11 @@
 
 &lt;p&gt;离临界点的到来还有充裕的时间，安吉拉发现自己陷入了一种从未体验过的情绪之中，这是一种混合了紧张、兴奋与留恋的复杂情感。她注视着银色列车重新缓慢地加速，以一个肉眼不可辨的倾斜度向前滑去，人造阳光再一次在银色的车身上流转起来，直到最后飞速掠过列车的尾端，整个车身随之重新没入了地底隧道的黑暗之中。然后，她想起了那个给她留下深刻印象的符号，过去的时光里她几乎天天与它打交道，而它就印在刚才滑入黑暗的那辆银色列车上：&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;/assets/images/xws.png&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/xws.png&quot; alt=&quot;&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;还有足够的时间用来怀旧。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;2&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;2&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;新纽约中央公园凛冽的秋风吹起了地上一层金黄的银杏叶，安吉拉不禁收紧了衣领，身旁的老者却全然没有怕冷的意思。裹得严严实实的小汤姆在另一边拉着她的手，低头无聊地踢着落叶。在这种严酷的天气下，人们都愿意呆在室内，银杏大道疏落的树木间只有他们三个人，显得格外空旷。&lt;/p&gt;
 
@@ -2124,7 +2127,7 @@
 
 &lt;p&gt;“多么美妙啊，从哪里来的，终归还是要到哪里去。”&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;3&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;3&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;汗水湿透的背心粘在巴克的皮肤上，他把它脱了下来甩进一旁的洗衣机里。&lt;/p&gt;
 
@@ -2158,7 +2161,7 @@
 
 &lt;p&gt;巴克感觉到了椅背作用在身体上的力量，只承载着一个人的列车在黑暗中急切地开始加速。他闭上眼睛，回忆再次向他袭来。每次驶往主城区的旅程中都会出现这种情况，通常它们都一闪而逝，然而这次却犹为强烈。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;4&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;4&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;他们三个人坐在旋转餐厅最靠边缘的一个位置上，面前的桌上陈列着青花纹样的高档瓷碟，折得方方正正的丝绸手帕被小心翼翼地压在盘沿下。一束粉红的水晶玫瑰插在桌子中心的琉璃瓶里，在温暖的灯光下透射着迷幻的光芒。向右方望去，巴克可以看到中央舞池内那些上流社会的贵族精英们正和着一曲上上个世纪的古典乐翩翩起舞，再往上坐着一圈又一圈同样是来这消磨时间的人们。看不清容貌的人们交谈正欢，穿着燕尾服的服务员们在一张张圆桌间不疾不徐地穿梭着，托盘里闪亮的香槟微微晃动。&lt;/p&gt;
 
@@ -2186,7 +2189,7 @@
 
 &lt;p&gt;休晃了晃手中那束藏有微型录音器的水晶玫瑰，街道两旁红紫交错的霓虹灯下，她的表情显得有点儿凌乱。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;5&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;5&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;13号停靠台上，趁着发车的间歇期，几个淡蓝色的清洁机器人迅捷地穿梭于轨道与站台地面间。它们身形扁平，从底盘伸出无数细小的黑色触须，快速地拂过所经的表面，让安吉拉又联想到了另一种海底生物。&lt;/p&gt;
 
@@ -2206,7 +2209,7 @@
 
 &lt;p&gt;安吉拉怔住了，等她反应过来的时候，汤姆似乎已经一脸满足地睡着了。她独自坐在床头，手捂着嘴，喜悦的泪水无声地淌下脸颊。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;6&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;6&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;“我去过了。”休的脸庞映照在床头灯的光线中，黑色的长发披散在肩头，显得憔悴而忧郁。&lt;/p&gt;
 
@@ -2252,7 +2255,7 @@
 
 &lt;p&gt;那是他见她的最后一面。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;7&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;7&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;安吉拉发现自己的双颊不知不觉间有些潮湿，她用手抹去了泪迹，努力控制了一下自己的情绪，但是记忆还是顺着时间的线条不自觉地向下滑落，滑落入黑暗之中。&lt;/p&gt;
 
@@ -2316,7 +2319,7 @@
 
 &lt;p&gt;十亿分之一。李冰凝望着窗外一望无际的起伏海面时，默默地想着。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;8&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;8&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;当银色列车在6：00准时驶进A3月台时，巴克已经决意忘却关于休和那个噩梦的种种，但是当他迈出车门，走进主站大厅，再走下一段楼梯来到控制中心后，一个想法又不自觉地冲上脑海：也许休离开时乘坐的就是这辆金色列车。&lt;/p&gt;
 
@@ -2340,7 +2343,7 @@
 
 &lt;p&gt;&lt;em&gt;我还在梦里吗？&lt;/em&gt;&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;9&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;9&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;衔尾蛇集团总部傲然伫立在海岸线之上，仿佛一座戒备森严的城堡。深蓝色的海水从四面八方舔舐着这巨大黑色金属建筑物的外墙，一条细细的磁悬浮轨道连接在海岸与建筑物之间，宛如护城河上的吊桥。&lt;/p&gt;
 
@@ -2396,7 +2399,7 @@
 
 &lt;p&gt;李冰站在原地，望着他们的背影，露出意味深长的眼神。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;10&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;10&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;三个世纪前一个寒冷的冬日，“美国驯化协会”的一名成员在纽约中央公园的空地上放飞了六十只椋鸟，希望它们能在这片新土地上繁衍生息。他不会想到，在接下来的时光里，椋鸟迅速成为了一个以亿计的种群。&lt;/p&gt;
 
@@ -2414,7 +2417,7 @@
 
 &lt;p&gt;安吉拉从已经汗湿的床单上醒来，到厕所把冷水泼在自己脸上，然后看着镜子里的自己逐渐平静下来。房间里的灯一点点亮起来，她转身缓步踱过走廊，不经意间发现儿子的房间门打开着，床上是空的。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;11&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;11&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;“组长？”技术员已经焦急地问了第三遍。&lt;/p&gt;
 
@@ -2448,7 +2451,7 @@
 
 &lt;p&gt;巴克突然感到一阵说不清的寒意。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;12&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;12&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;出事后的一个小时，他们就找到了汤姆。&lt;/p&gt;
 
@@ -2484,7 +2487,7 @@
 
 &lt;p&gt;安吉拉微微点了点头，直视着他的眼睛，火光摇曳在她泪迹未干的脸颊上。“我想知道。”&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;13&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;13&lt;/h1&gt;&lt;/div&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;万物开始必须终结，所以只要根据天国的规条创造者与及当中的神秘数式，必然能够再生。&lt;/p&gt;
@@ -2581,7 +2584,7 @@
 
 &lt;p&gt;“混蛋，谁叫你们用打的！”&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;14&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;14&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;金色列车还有五分钟就要进站了，巴克从恍惚中稍微清醒过来，听见又有人在询问他问题。&lt;/p&gt;
 
@@ -2607,7 +2610,7 @@
 
 &lt;p&gt;巴克感到自己的世界在一瞬间崩塌了，如此迅速，如此彻底。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;15&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;15&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;休站在人潮边缘一个远离监控的不起眼的角落里，凝视着此时宁静的A1月台。三个小时前，组织用巴克的身份伪装偷运进来的军用穿甲枪此时就隐藏在她的外套下，高分子的枪柄已被手心捂得温热。一个星期前，在获得金色列车行动的具体情报后，她正式向组织提出了这套方案，并且志愿担当此次行动的执行者。&lt;/p&gt;
 
@@ -2641,7 +2644,7 @@
 
 &lt;p&gt;她不记得自己是如何崩溃的，只记得自己和他都跪在草地上，她靠着他的肩膀，泪如雨下。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;16&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;16&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;休爱上了这个以肩膀承接她泪水的男人，这是毫无疑问的。休曾天真地想，那种蓝天下的生活会一直持续下去，直到半年前。&lt;/p&gt;
 
@@ -2677,7 +2680,7 @@
 
 &lt;p&gt;没等休反应过来，一张数据存储卡已经放在了桌上。女人起身戴上兜帽前，像是想起了什么，回过头说道：“相信我，我们有共同的敌人。”然后便隐没在烟雾与噪音之中，仿佛从未出现过。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;17&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;17&lt;/h1&gt;&lt;/div&gt;
 
 &lt;p&gt;一切都变得清晰明了起来，命运仿佛一直静静地等在前头，等着迎接安吉拉的到来。而她欣然接受了这一安排。&lt;/p&gt;
 
@@ -2737,7 +2740,7 @@
 
 &lt;p&gt;再没有什么秘密了。&lt;/p&gt;
 
-&lt;center&gt;&lt;h1&gt;18&lt;/h1&gt;&lt;/center&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;18&lt;/h1&gt;&lt;/div&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;若有人名字没有记在生命册上，他就被扔在火湖里。&lt;/p&gt;
@@ -2814,7 +2817,7 @@
 *本文首发于《科幻世界》2018年3月刊，有删改。
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 -0700</pubDate>
         <link>https://annax.github.io/2020/09/09/yuan/</link>
         <guid isPermaLink="true">https://annax.github.io/2020/09/09/yuan/</guid>
         
