@@ -4,10 +4,10 @@
     <title>ANNAX安纳辛</title>
     <description>personal website for annax
 </description>
-    <link>https://annax.github.io</link>
-    <atom:link href="https://annax.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Dec 2021 00:47:42 -0800</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 00:47:42 -0800</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Dec 2021 00:56:42 -0800</pubDate>
+    <lastBuildDate>Mon, 13 Dec 2021 00:56:42 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Dec 2021 00:00:00 -0800</pubDate>
-        <link>https://annax.github.io/2021/12/11/update/</link>
-        <guid isPermaLink="true">https://annax.github.io/2021/12/11/update/</guid>
+        <link>http://localhost:4000/2021/12/11/update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/12/11/update/</guid>
         
         
       </item>
@@ -1017,8 +1017,8 @@
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 26 Apr 2021 00:00:00 -0700</pubDate>
-        <link>https://annax.github.io/2021/04/26/thekeffect1/</link>
-        <guid isPermaLink="true">https://annax.github.io/2021/04/26/thekeffect1/</guid>
+        <link>http://localhost:4000/2021/04/26/thekeffect1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/26/thekeffect1/</guid>
         
         <category>story</category>
         
@@ -1116,8 +1116,8 @@
 &lt;p&gt;让我们在奇点后相见。&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
-        <link>https://annax.github.io/2020/11/18/cyberpunkisdead/</link>
-        <guid isPermaLink="true">https://annax.github.io/2020/11/18/cyberpunkisdead/</guid>
+        <link>http://localhost:4000/2020/11/18/cyberpunkisdead/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/11/18/cyberpunkisdead/</guid>
         
         <category>note</category>
         
@@ -2030,8 +2030,8 @@
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6&gt;(未完待续)&lt;/h6&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 28 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://annax.github.io/2020/09/28/winterhunt1/</link>
-        <guid isPermaLink="true">https://annax.github.io/2020/09/28/winterhunt1/</guid>
+        <link>http://localhost:4000/2020/09/28/winterhunt1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/28/winterhunt1/</guid>
         
         <category>story</category>
         
@@ -2818,8 +2818,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 09 Sep 2020 00:00:00 -0700</pubDate>
-        <link>https://annax.github.io/2020/09/09/yuan/</link>
-        <guid isPermaLink="true">https://annax.github.io/2020/09/09/yuan/</guid>
+        <link>http://localhost:4000/2020/09/09/yuan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/09/yuan/</guid>
         
         <category>story</category>
         
