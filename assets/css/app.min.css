@@ -2099,7 +2099,7 @@ main {
   font-size: 0.9em;
   color: grey;
   text-align: right;
-  padding-right: 2.5em;
+  padding-right: 1.2em;
 }
 @media (min-width: 32em) {
   .post__image-credit {
@@ -2111,7 +2111,7 @@ main {
   font-size: 0.9em;
   color: grey;
   text-align: left;
-  padding-left: 2.5em;
+  padding-left: 1.2em;
 }
 @media (min-width: 32em) {
   .post__noc {
@@ -2121,25 +2121,18 @@ main {
 .post__music {
   display: flex;
   position: sticky;
-  width: 300px;
-  height: 300px;
+  width: 17.5em;
+  height: 6.5em;
   top: 50px;
-  left: 1500px;
-  right: 0;
-  bottom: 0;
-  margin-top: -36px;
-  margin-bottom: -300px;
+  margin-top: 13em;
+  margin-left: -100px;
+  transition: all 0.2s ease-in-out;
 }
 @media (max-width: 32em) {
   .post__music {
     width: 0;
     height: 0;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 20em;
   }
 }
 .post__social {
@@ -2185,12 +2178,6 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-@media (min-width: 54em) {
-  #markdown {
-    margin-left: -6em;
-    margin-right: 6em;
-  }
 }
 .post-layout #markdown, #style-guide #markdown {
   font-family: Microsoft Yahei;
