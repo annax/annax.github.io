@@ -6,19 +6,16 @@
 </description>
     <link>https://annax.github.io</link>
     <atom:link href="https://annax.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Dec 2021 01:10:49 -0800</pubDate>
-    <lastBuildDate>Mon, 13 Dec 2021 01:10:49 -0800</lastBuildDate>
+    <pubDate>Tue, 14 Dec 2021 15:50:05 -0800</pubDate>
+    <lastBuildDate>Tue, 14 Dec 2021 15:50:05 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>更新记录</title>
-        <description>&lt;div style=&quot;text-indent: 5em&quot;&gt;
+        <description>&lt;div class=&quot;warning&quot; style=&quot;font-size: 1.1em&quot;&gt;
 2021-12-11
-&lt;li&gt;支持插入音乐&lt;/li&gt;
+&lt;li&gt;支持嵌入音乐&lt;/li&gt;
 &lt;li&gt;明暗风格统一，更好的深色模式体验&lt;/li&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;text-indent: 5em&quot;&gt;
 2021-04-29
 &lt;li&gt;可以在文章首图左下角看到字数&lt;/li&gt;
 &lt;li&gt;中英文字体统一&lt;/li&gt;
@@ -1130,11 +1127,15 @@
 
 &lt;div class=&quot;warning&quot;&gt;
 &lt;p&gt;[ 此篇使用了不同字体，建议在PC端浏览器上阅读 ]&lt;/p&gt;
-&lt;p&gt;[ 此篇嵌入了音乐，手机可在横屏模式下显示播放器 ]&lt;/p&gt;
 &lt;p&gt;[ Chrome浏览器使用者，推荐使用&lt;a href=&quot;https://darkreader.org/&quot;&gt;Dark Reader&lt;/a&gt;插件，在全屏模式下阅读 ]&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;1&lt;/h1&gt;&lt;/div&gt;
+
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=1349914819&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;“啪嗒！”泛着黑光的战术靴粉碎了水坑里的霓虹招牌，那是一家地下软件作坊的名字。类似的招牌在视野过滤网外到处都是，然而这条街上此时空无一人——半小时之前，紧急疏散令已经让黑市商人们识相地卷铺盖走人了。&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 1.1em&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;em&gt;盔载显示系统：红色警告——噪音分贝越线！&lt;/em&gt;&lt;/p&gt;
@@ -1331,6 +1332,10 @@
 
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;2&lt;/h1&gt;&lt;/div&gt;
 
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=29357521&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h5&gt;腊月廿二 · 上午09时12分 —— 冬京 · 雀阁&lt;/h5&gt;
 
 &lt;p&gt;一只灰喜鹊在细雨丝中梳理着自己的羽毛，倏尔向前腾空惊起，翅膀拍出两道水汽。其站立的大理石鸟首喙部，一滴悬挂已久的水珠终于坠落下来。&lt;/p&gt;
@@ -1446,6 +1451,10 @@
 &lt;p&gt;“答应我，一定要注意安全好么？”&lt;/p&gt;
 
 &lt;p&gt;“放心吧，我不会一个人去的。”赤良子说道，看到段一云脸上闪过的一丝复杂表情，又补充道：“它不是人类。”&lt;/p&gt;
+
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=28786012&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;牧师举起双手，悠扬的前奏徐徐响起，驻足的人群自动安静下来。第一排中间的一个女生首先开始唱到：&lt;/p&gt;
 
@@ -1621,6 +1630,10 @@
 
 &lt;p&gt;叶老板笑着摇头：“哎呦，我要知道我早说了！”&lt;/p&gt;
 
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=4053759&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;两人都大笑起来，这时坐在一旁的“道”站了起来，合上手提箱来到桌旁，冲永尾点了点头。&lt;/p&gt;
 
 &lt;p&gt;“怎么样，我就说货没问题吧？”叶老板激动地拍着胸脯。&lt;/p&gt;
@@ -1702,6 +1715,10 @@
 &lt;p&gt;“预计旅程时间：三小时四十七分。”轻微的提示音湮没在热港的夜里。泛着黑红色光泽的扁平车身仿佛一只巨型金属蛞蝓，无声地滑入了庞杂黑暗的街道中。一会儿，它便会离开热港枢纽，汇入地下高速交通网络，然后一路向北，向目的地疾驰而去。&lt;/p&gt;
 
 &lt;div style=&quot;text-align: center;&quot;&gt;&lt;h1&gt;4&lt;/h1&gt;&lt;/div&gt;
+
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=21993928&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h5&gt;腊月廿二 · 晚18时25分 —— 新海上空&lt;/h5&gt;
 
@@ -1912,6 +1929,10 @@
 &lt;p&gt;碳迹艇庞大的艇身缓缓遮蔽了他们头顶的夜空。&lt;/p&gt;
 
 &lt;p&gt;他们小小的车厢像一尾鱼苗从鲸腹下缓缓漂过。&lt;/p&gt;
+
+&lt;div class=&quot;music&quot;&gt;
+&lt;iframe src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=1406230545&amp;amp;auto=0&amp;amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h5&gt;晚21时48分 —— 长渝 · 滨江汽车制造厂&lt;/h5&gt;
 

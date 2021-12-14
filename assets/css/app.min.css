@@ -2118,23 +2118,6 @@ main {
     padding-left: 3.3em;
   }
 }
-.post__music {
-  display: flex;
-  position: sticky;
-  width: 17.5em;
-  height: 6.5em;
-  top: 50px;
-  margin-top: 13em;
-  margin-left: -100px;
-  transition: all 0.2s ease-in-out;
-}
-@media (max-width: 32em) {
-  .post__music {
-    width: 0;
-    height: 0;
-    margin-top: 20em;
-  }
-}
 .post__social {
   margin-top: 2em;
   margin-bottom: 0;
@@ -2209,6 +2192,28 @@ main {
   font-size: 1.3em;
   letter-spacing: -0.05em;
 }
+#markdown .music {
+  position: sticky;
+  top: 50px;
+  height: 50px;
+  transition: all 0.2s ease-in-out;
+}
+@media (min-width: 54em) {
+  #markdown .music iframe {
+    width: 33%;
+  }
+}
+@media (min-width: 54em) {
+  #markdown .music {
+    margin-left: -70%;
+    margin-bottom: -50px;
+  }
+}
+@media (min-width: 65em) {
+  #markdown .music {
+    top: 60px;
+  }
+}
 #markdown > * {
   min-width: 100%;
 }
@@ -2246,7 +2251,6 @@ main {
   font-size: 1.5em;
 }
 #markdown h5 {
-  margin-top: 0.6em;
   font-size: 1.125em;
 }
 #markdown h6 {
